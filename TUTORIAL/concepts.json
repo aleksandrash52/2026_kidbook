@@ -10,13 +10,13 @@
     "description": "Как писать статьи",
     "lemmas": ["md", "mardown", "tutorial", "Как писать статьи", "оформление", "инструкция", "правила"],
     "name": "How write articles",
-    "file": "TUTORIAL/how_write_article/how_write_articles.md"
+    "file": "TUTORIAL/how_write_article/README.md"
   },
   {
     "id": "TUTORIAL/cucumbers",
     "description": "огурцы",
     "lemmas": ["огурцы", "овощи", "овощ", "ботаника", "растения"],
     "name": "cucumbers",
-    "file": "TUTORIAL/cucumbers/cucumbers.md"
+    "file": "TUTORIAL/cucumbers/README.md"
   }
 ]
