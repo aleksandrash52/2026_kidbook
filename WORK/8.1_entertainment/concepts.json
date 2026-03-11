@@ -1,0 +1,64 @@
+{
+  "section": "",
+  "topic": "",
+  "author_group": "Top-manager team",
+  "members": [
+  ],
+  "concepts": [
+    {
+        "id": "WORKS/8.1_entertainment/фильм",
+        "description": "Статья рассказывает о понятии фильма.",
+        "lemmas": ["фильм", "жанр", "фантастика", "приключения", "фэнтези", "драма", "комедия", "ужасы", "триллер"],
+        "name": "Фильм",
+        "file": "movie.md",
+        "wikidata_id": "Q11424",
+        "author": "Ecodrin"
+    },
+    {
+        "id": "WORKS/8.1_entertainment/montage",
+        "description": "О монтаже, его видах",
+        "lemmas": ["монтаж", "киномонтаж", "кадр"],
+        "name": "Монтаж в кино",
+        "file": "montage.md",
+        "wikidata_id": "Q237893",
+        "author": "Ecodrin"
+    },
+    {
+        "id": "WORKS/8.1_entertainment/special_effects",
+        "description": "О спецэффектах в кино, их видах и истории появления.",
+        "lemmas": ["спецэффект", "CGI", "stop-motion", "хромакей", "декорации"],
+        "name": "Спецэффекты в кино",
+        "file": "special_effects.md",
+        "wikidata_id": "Q8317",
+        "author": "Ecodrin"
+    },
+        {
+        "id": "WORKS/8.1_entertainment/script",
+        "description": "Что такой сценарий. Кто его делает и зачем он.",
+        "lemmas": ["сценарий", "сценарист", "эпизод", "раскадровка"],
+        "name": "Сценарий",
+        "file": "script.md",
+        "wikidata_id": "Q103076",
+        "author": "anxiousss"
+    },
+    {
+        "id": "WORKS/8.1_entertainment/director",
+        "description": "О роли режиссёра в создании фильма, его задачах и творческом видении.",
+        "lemmas": ["режиссёр", "постановка"],
+        "name": "Режиссёр",
+        "file": "director.md",
+        "wikidata_id": "P57",
+        "author": "anxiousss"
+    },
+    {
+        "id": "WORKS/8.1_entertainment/soundtrack",
+        "description": "О саундтреках в кино, их роли, создании и известных композиторах.",
+        "lemmas": ["саундтрек"],
+        "name": "Саундтрек",
+        "file": "soundtrack.md",
+        "wikidata_id": "Q217199",
+        "author": "anxiousss"
+    }
+
+  ]
+}
